@@ -1,11 +1,11 @@
 # Erros & Bugs [UBUNTU 16.04]
 
-** Erro Em Pacotes Ou Pacotes Quebrados **
+**Erro Em Pacotes Ou Pacotes Quebrados**
 ~~~
 sh pcts.sh
 ~~~
 
-** [Inicialização] UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY **
+**[Inicialização] UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY**
 ~~~
 fsck -fy /dev/sda1
 ~~~
